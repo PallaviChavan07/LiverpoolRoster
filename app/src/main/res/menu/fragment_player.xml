@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share_player"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/share_player"
+        app:showAsAction="never|ifRoom"/>
+    />
+    <item
+        android:id="@+id/edit_player"
+        android:icon="@drawable/ic_menu_edit"
+        android:title="@string/edit_player"
+        app:showAsAction="never|ifRoom"/>
+    <item
+        android:id="@+id/delete_player"
+        android:icon="@drawable/ic_menu_delete"
+        android:title="@string/delete_player"
+        app:showAsAction="never|ifRoom"/>
+        />
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/ic_menu_location"
+        android:title="@string/location"
+        app:showAsAction="never|ifRoom"/>
+
+    <item
+        android:id="@+id/new_player"
+        android:icon="@drawable/ic_menu_add"
+        android:title="@string/add_player"
+        app:showAsAction="never|ifRoom"/>
+
+</menu>

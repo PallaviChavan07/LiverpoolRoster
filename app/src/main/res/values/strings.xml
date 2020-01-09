@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Liverpool Roster</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="player_title_label">Name</string>
+    <string name="player_details_label">Details</string>
+    <string name="player_number">Number</string>
+    <string name="player_position">Position</string>
+    <string name="player_nationality">Nationality</string>
+    <string name="player_appearance">Appearance</string>
+    <string name="player_birthdate">Date of Birth</string>
+    <string name="add_player">Add Player</string>
+    <string name="edit_player">Edit Player</string>
+
+    <string name="date_picker_title">Date of Birth:</string>
+    <string name="DATE_PATTERN">MM/dd/yyyy</string>
+    <string name="save_player_details">Save</string>
+    <string name="save_toast">Player Information Saved Successfuly!</string>
+    <string name="player_fragment_tag">PlayerFragmentTag</string>
+    <string name="delete_player">Delete Player</string>
+    <string name="location">Location</string>
+    <string name="share_player">Share Player Details</string>
+
+    <string name="nameValidateMsg">Player name is required</string>
+    <string name="numberValidateMsg">Player number is required</string>
+    <string name="nationalityValidateMsg">Player nationality is required</string>
+    <string name="positionValidateMsg">Player position is required</string>
+    <string name="bdateValidateMsg">Player date of birth is required</string>
+
+    <string name="send_playerdetails">Send player details via</string>
+    <string name="player_detial_subject">LFC Player Details</string>
+    <string name="player_detial_name">The player name is %s</string>
+    <string name="player_detial_position">plays at position %s</string>
+    <string name="player_detial_nationality">his nationality is %s</string>
+    <string name="player_detail">%1$s\n%2$s, %3$s and %4$s
+    </string>
+    <string name="player_profile_link">Check full profile</string>
+    <string name="profile_not_exist">Player profile does not exist</string>
+
+
+
+
+
+
+
+
+</resources>

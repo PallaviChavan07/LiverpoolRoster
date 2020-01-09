@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f5d4bb051c511428e11b4b0d77f9444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\43a449a7fa0be1edee68e040e5b17ba2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e512ce971d4dd05a6dba292d63e693f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7d1f93a75df280834816adf97d61c4aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0353315035d27c0dbea5c0f0ebab54b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\feda6b6b49160189252ce3fb08f3accf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\688bd88da1977d62834f05653b199978\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6189d06308c480c12b7558ee7f9205d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f199adecb468a7de0078f61dbe4c48b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fe1e5d08468ef3e2ab41374d2c850c49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3d627492aece2d1482e1122800b59aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0382f0829d0c59eb8a4f8c2e820d9cd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d431541e5c945363934872547160a4e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\775a946065447287005889c34ea54465\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d026032c4d23b112725bf605002d34f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef1e7d684f957c3511f010a2765584ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\11ac9e5bbdd445635e24b459f9ea2462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198f44bcc4ab096994cf6a6d36475b43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2e90cb065c90c3006b8766c3fb62ada7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\36ad1a765f32934e4e084232904b5e8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1059a489693b9b54581a1cf6ec4abd0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\140d6c330b2d399c53a310bdf00fd880\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cfd2b8071ed0dce081eb6b21c9b7d6d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4b9b04468dc9510bbd2f9f2a99856721\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ee6eec966248262f0c5f68b3f17c5bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bdb41db439236058f5b8b859558dc51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\64b2553df8bf873585035dd5f9c07056\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\286970295c9ee62fa41a852c4cf107cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6ecaacb087c7e348a7923a33a54420e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\43a449a7fa0be1edee68e040e5b17ba2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\43a449a7fa0be1edee68e040e5b17ba2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2e90cb065c90c3006b8766c3fb62ada7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2e90cb065c90c3006b8766c3fb62ada7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.liverpoolroster.PlayerListActivity
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:18:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.liverpoolroster.PlayerPagerActivity
+ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:24:9-84
+	android:name
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml:24:19-81
+uses-sdk
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f5d4bb051c511428e11b4b0d77f9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f5d4bb051c511428e11b4b0d77f9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\43a449a7fa0be1edee68e040e5b17ba2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\43a449a7fa0be1edee68e040e5b17ba2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e512ce971d4dd05a6dba292d63e693f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\e512ce971d4dd05a6dba292d63e693f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7d1f93a75df280834816adf97d61c4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\7d1f93a75df280834816adf97d61c4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0353315035d27c0dbea5c0f0ebab54b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0353315035d27c0dbea5c0f0ebab54b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\feda6b6b49160189252ce3fb08f3accf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\feda6b6b49160189252ce3fb08f3accf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\688bd88da1977d62834f05653b199978\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\688bd88da1977d62834f05653b199978\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6189d06308c480c12b7558ee7f9205d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f6189d06308c480c12b7558ee7f9205d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f199adecb468a7de0078f61dbe4c48b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f199adecb468a7de0078f61dbe4c48b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fe1e5d08468ef3e2ab41374d2c850c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fe1e5d08468ef3e2ab41374d2c850c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3d627492aece2d1482e1122800b59aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3d627492aece2d1482e1122800b59aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0382f0829d0c59eb8a4f8c2e820d9cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0382f0829d0c59eb8a4f8c2e820d9cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d431541e5c945363934872547160a4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d431541e5c945363934872547160a4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\775a946065447287005889c34ea54465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\775a946065447287005889c34ea54465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d026032c4d23b112725bf605002d34f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d026032c4d23b112725bf605002d34f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef1e7d684f957c3511f010a2765584ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ef1e7d684f957c3511f010a2765584ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\11ac9e5bbdd445635e24b459f9ea2462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\11ac9e5bbdd445635e24b459f9ea2462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198f44bcc4ab096994cf6a6d36475b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198f44bcc4ab096994cf6a6d36475b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f7628ff6a1a7bd80dd3101f14c736b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2e90cb065c90c3006b8766c3fb62ada7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2e90cb065c90c3006b8766c3fb62ada7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\36ad1a765f32934e4e084232904b5e8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\36ad1a765f32934e4e084232904b5e8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1059a489693b9b54581a1cf6ec4abd0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1059a489693b9b54581a1cf6ec4abd0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\140d6c330b2d399c53a310bdf00fd880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\140d6c330b2d399c53a310bdf00fd880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cfd2b8071ed0dce081eb6b21c9b7d6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cfd2b8071ed0dce081eb6b21c9b7d6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4b9b04468dc9510bbd2f9f2a99856721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4b9b04468dc9510bbd2f9f2a99856721\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ee6eec966248262f0c5f68b3f17c5bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ee6eec966248262f0c5f68b3f17c5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bdb41db439236058f5b8b859558dc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7bdb41db439236058f5b8b859558dc51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\64b2553df8bf873585035dd5f9c07056\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\64b2553df8bf873585035dd5f9c07056\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\286970295c9ee62fa41a852c4cf107cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\286970295c9ee62fa41a852c4cf107cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6ecaacb087c7e348a7923a33a54420e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jpall\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6ecaacb087c7e348a7923a33a54420e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jpall\D\Fall2018\COMP590_MobileApps\Assignment3\LiverpoolRoster\app\src\main\AndroidManifest.xml
